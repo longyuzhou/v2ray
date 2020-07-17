@@ -23,7 +23,7 @@
     "protocol": "vmess",
     "settings": {
       "vnext": [{
-        "address": "74.120.174.38",
+        "address": "server",
         "port": 1080,
         "users": [{ "id": "5dbbb961-d530-48d2-9cc2-37348ee223ba" }]
       }]
